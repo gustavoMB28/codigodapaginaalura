@@ -1,3 +1,4 @@
 # codigodapaginaalura
 barbearia alura
 https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXM0ZXd4YnVldW5qYmk1anNvbTFwbTRkYzMxeGg5ZWYxY2V5bHdiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g5R9dok94mrIvplmZd/giphy.gif
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExam14Z3JkdjNjZzUyb2VxNGtscng3NGY4OWo0cDd6MXRiZjdvZnB2aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DXhmNiA8F1i4fLnMdb/giphy.gif
